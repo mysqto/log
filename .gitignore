@@ -1,0 +1,26 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# IDE related
+.idea
+.vscode
+
+# binary & example
+example/example
+example/*.gz
+
+# Fucking macOS .DS_store
+.DS_Store
+
+#log
+*.log
