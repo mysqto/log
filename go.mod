@@ -1,5 +1,8 @@
 module github.com/mysqto/log
 
-require github.com/mysqto/isatty v0.0.11
+go 1.15
 
-go 1.13
+require (
+	github.com/mattn/go-isatty v0.0.12 // indirect
+	github.com/mysqto/isatty v1.0.0
+)
