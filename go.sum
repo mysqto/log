@@ -1,5 +1,4 @@
-github.com/mysqto/isatty v0.0.13 h1:EfhGIYhrIjPMWQbbIqNr+zXhWl63Dt8ri/GdoY1HVwc=
-github.com/mysqto/isatty v0.0.13/go.mod h1:pqbtfq/qQV8aEOy5EcQsTZ4sDsiBkVSaLZdbrTXEv84=
-golang.org/x/sys v0.0.0-20190813064441-fde4db37ae7a/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+github.com/mysqto/isatty v1.0.2 h1:r3scZnckE2gTyBzEcY7ksoLDd6MR1DNrXpB+uEhuius=
+github.com/mysqto/isatty v1.0.2/go.mod h1:pqbtfq/qQV8aEOy5EcQsTZ4sDsiBkVSaLZdbrTXEv84=
 golang.org/x/sys v0.0.0-20200923182605-d9f96fdee20d h1:L/IKR6COd7ubZrs2oTnTi73IhgqJ71c9s80WsQnh0Es=
 golang.org/x/sys v0.0.0-20200923182605-d9f96fdee20d/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
